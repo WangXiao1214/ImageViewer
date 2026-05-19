@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC250809-0E3E-4620-A0FC-122079C57975}|ImageViewer\\ImageViewer.csproj|e:\\\u8BB0\u5F55\\\u5B66\u4E60\\csharp_project\\imageviewer\\imageviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC250809-0E3E-4620-A0FC-122079C57975}|ImageViewer\\ImageViewer.csproj|solutionrelative:imageviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC250809-0E3E-4620-A0FC-122079C57975}|ImageViewer\\ImageViewer.csproj|e:\\\u8BB0\u5F55\\\u5B66\u4E60\\csharp_project\\imageviewer\\imageviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC250809-0E3E-4620-A0FC-122079C57975}|ImageViewer\\ImageViewer.csproj|solutionrelative:imageviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC250809-0E3E-4620-A0FC-122079C57975}|ImageViewer\\ImageViewer.csproj|e:\\\u8BB0\u5F55\\\u5B66\u4E60\\csharp_project\\imageviewer\\imageviewer\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC250809-0E3E-4620-A0FC-122079C57975}|ImageViewer\\ImageViewer.csproj|solutionrelative:imageviewer\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\ImageViewer\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ImageViewer\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\ImageViewer\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ImageViewer\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:15:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\ImageViewer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ImageViewer\\MainWindow.xaml",
+              "ToolTip": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\ImageViewer\\MainWindow.xaml",
+              "RelativeToolTip": "ImageViewer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T08:13:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\ImageViewer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ImageViewer\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\\u8BB0\u5F55\\\u5B66\u4E60\\CSharp_Project\\ImageViewer\\ImageViewer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ImageViewer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:13:09.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
